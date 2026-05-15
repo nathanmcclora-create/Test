@@ -1,0 +1,1 @@
+"My second attempt to git init and stage and commit." 
